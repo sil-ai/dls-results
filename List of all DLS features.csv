@@ -1,0 +1,144 @@
+"Support_Category","Feature_Name","Expanded_Name","Languages_Supported"
+"Content","african_storybook","African Storybook",169
+"Content","bbc_news","BBC News",29
+"Content","bloom_library","Bloom Book Library",353
+"Content","bookshare","Bookshare: Accessible ebooks",56
+"Content","gdl","Global Digital Library",68
+"Content","gutenberg","Project Gutenberg",65
+"Content","indigenous_blogs","Indigenous Blogs",85
+"Content","indigenous_tweets","Indigenous Tweets",175
+"Content","jw_materials","JW Materials",790
+"Content","lds_materials","LDS Materials",132
+"Content","medline","NIH Medline Plus",57
+"Content","msn_news","MSN News",29
+"Content","opus","Open Parallel Corpus",468
+"Content","quran_translation_online","Quran Translation Online",46
+"Content","sil_covid_docs","SIL Covid Resources",971
+"Content","udhr_translation","UDHR Translation",470
+"Content","w3techs","Web Technology Surveys",182
+"Content","wattpad","WattPad",50
+"Content","wdl","World Digital Library",143
+"Content","wikipedia","Wikipedia",247
+"Content","wp_incubator","Wikipedia Incubator",528
+"Content","yahoo_news","Yahoo News",32
+"Content","youversion_bible","YouVersion Bible",1624
+"Encoding","apple_quicktype","Apple QuickType Keyboard",95
+"Encoding","cldr","Common Locale Data Repository (CLDR)",213
+"Encoding","gboard","Gboard Keyboard",635
+"Encoding","google_input_tools","Google Input Tools (Fonts and Keyboards)",86
+"Encoding","keyman","Keyman Keyboard",1727
+"Encoding","mac_input","Mac Input Keyboard",93
+"Encoding","opentype_ms","OpenType MS Keyboard",920
+"Encoding","sldr","SIL Local Data Repository (SLDR)",896
+"Encoding","webos_input_method","WebOS Input Method",85
+"Encoding","xkeyboard-config","Xkeyboard-config Keyboard for Unix",41
+"Surface","adobe_all_tiers","Adobe Acrobat Proofing tools and UI",26
+"Surface","apple_quicktype_contextual","Apple QuickType with Contextual Suggestions",15
+"Surface","apple_quicktype_predictive","Apple QuickType with Word-Internal Prediction",19
+"Surface","bing","Bing Search Engine UI",97
+"Surface","duckduckgo","DuckDuckGo Search Engine UI",70
+"Surface","firefox_dictionary","Firefox Spelling Dictionary",110
+"Surface","gboard_dictionary","Gboard Spelling Dictionary",635
+"Surface","google_drive","Google Drive UI",142
+"Surface","google_search","Google Search Engine UI",138
+"Surface","gsuite","GSuite Proofing Tools and UI",70
+"Surface","hunspell","Hunspell Spell-checker",56
+"Surface","ios_spell_check","iOS Spell-checker",18
+"Surface","office_proofing_tools","Microsoft Office Proofing Tools",95
+"Surface","yahoo","Yahoo Search Engine UI",39
+"Surface","yandex_results","Yandex Search Results",8
+"Localized","android_nougat_supported_locales","Android OS",187
+"Localized","bbm_enterprise","Blackberry Mobile Messenger UI",34
+"Localized","bigo_live","BIGO Live Social Media UI",18
+"Localized","blackberry_10","Blackberry 10 Mobile OS",32
+"Localized","chrome_browser","Google Chrome Web Browser UI",127
+"Localized","chrome_os","Chrome OS",127
+"Localized","edge","Microsoft Edge Web Browser UI",98
+"Localized","facebook","Facebook UI",100
+"Localized","faceboook_messenger","Facebook Messenger",92
+"Localized","firefox_lp","Firefox Language Pack for Web Browser",110
+"Localized","freebsd","FreeBSD Operating System",18
+"Localized","instagram","Instagram",43
+"Localized","internet_explorer","Internet Explorer Web Browser UI",100
+"Localized","ios","Apple iOS",32
+"Localized","kakao_talk","Kakao Talk Messaging UI",14
+"Localized","lg","LG Mobile OS",50
+"Localized","line","Line Instant Messaging App",6
+"Localized","linkedin","LinkedIn UI",23
+"Localized","mac_os_high_sierra","Mac OS",32
+"Localized","musical.ly","Musical.ly UI",39
+"Localized","odnoklassniki","Odnoklassniki UI",13
+"Localized","office_partial_support","Partially-localized Microsoft Office UI",95
+"Localized","opera","Opera Web Browser UI",125
+"Localized","pinterest","Pinterest UI",31
+"Localized","plasma_kde","Plasma KDE Mobile OS",81
+"Localized","qq","QQ Instant Messaging App",7
+"Localized","reddit","Reddit UI",72
+"Localized","safari","Safari Web Browser UI",32
+"Localized","sailfish_os","Sailfish Mobile OS",56
+"Localized","skype","Skype UI",38
+"Localized","snapchat","Snapchat UI",35
+"Localized","solaris_11.2","Solaris OS",64
+"Localized","telegram","Telegram messaging App",1
+"Localized","tizen","Tizen Mobile OS",41
+"Localized","twitter","Twitter UI",33
+"Localized","ubuntu_bionic_beaver","Ubuntu OS",234
+"Localized","ubuntu_touch","Ubuntu Touch Mobile OS",132
+"Localized","uc_browser","UC Browser UI",13
+"Localized","viber","Viber Calls and Messaging UI",32
+"Localized","vkontakte","Vkontakte UI",79
+"Localized","wechat","WeChat messaging UI",18
+"Localized","whatsapp","WhatsApp messaging UI",55
+"Localized","windows_10_full","Windows 10 Full OS",100
+"Localized","windows_10_lip","Windows 10 Language Interface Pack",69
+"Localized","windows_10_mobile","Windows 10 Mobile OS",60
+"Localized","yandex_ui","Yandex Search Engine UI",6
+"Localized","youtube","YouTube UI",74
+"Meaning","adobe_tiers_1_&_2","Adobe Proofing Tools, OCR, and UI",26
+"Meaning","apertium_incubator","Apertium Machine Translation (incubator level only)",119
+"Meaning","apertium_nursery","Apertium Machine Translation (intermediate level support)",44
+"Meaning","apertium_trunk_staging","Apertium Machine Translation (full or near full support)",48
+"Meaning","baidu","Baidu Machine Translation",194
+"Meaning","bixby_vision","Bixby Vision Machine Translation",54
+"Meaning","dialogflow_meaning","Dialog Flow Sentiment",9
+"Meaning","google_translate","Google Translate Machine Translation",109
+"Meaning","microsoft_translator","Microsoft Translate Machine Translation",85
+"Meaning","naver_papago","Naver Papago Machine Translation",11
+"Meaning","office_full_support","Full Microsoft Office UI",95
+"Meaning","omniscien","Omniscien Machine Translation",48
+"Meaning","pairaphrase","Pairaphrase Machine Translation",104
+"Meaning","sogou_translate","Sogou Machine Translation",58
+"Speech","acapela","Acapela Text-to-Speech",21
+"Speech","amazon_polly","Amazon Polly Text-to-Speech",21
+"Speech","amazon_transcribe","Amazon Transcribe",22
+"Speech","amazon_transcribe_streaming","Amazon Transcribe Streaming",9
+"Speech","apple_quicktype_dictation","Apple QuickType with Dictation Support",34
+"Speech","balabolka","Balabolka Text-to-Speech",29
+"Speech","cereproc","Cereproc Text-to-Speech",16
+"Speech","chromevox","ChromeVox Text-to-Speech",49
+"Speech","dialogflow_speech","Dialog Flow STT TTS",21
+"Speech","dragon_dictation","Dragon Dictation Speech-to-Text",6
+"Speech","espeakng","eSpeak (Next Generation) speech synthesizer",105
+"Speech","firefox_chirpy","Firefox Chirpy Text-to-Speech",43
+"Speech","google_cloud_stt","Google Cloud STT",72
+"Speech","google_text_to_speech","Google Text-to-Speech",36
+"Speech","mac_dictation","Mac Dictation Support",32
+"Speech","microsoft_sr","Microsoft Speaker Recognition",8
+"Speech","microsoft_stt","Microsoft Speech to Text",44
+"Speech","microsoft_tts","Microsoft Text to Speech",45
+"Speech","naturalreader","NaturalReader Text-to-Speech",10
+"Speech","nvda_tts","NVDA TTS",58
+"Speech","orca","Orca",70
+"Speech","vocalizer","Vocalizer Text-to-Speech",38
+"Speech","watson","Watson Speech-to-Text",11
+"Assistant","alexa","Amazon Alexa",8
+"Assistant","alice","Alice Virtual Assistant",1
+"Assistant","aligenie","AliGenie Virtual Assistant",1
+"Assistant","bixby_voice","Bixby Voice Assistant",3
+"Assistant","clova","Clova Virtual Assistant",2
+"Assistant","cortana","Microsoft Cortana Virtual Assistant",8
+"Assistant","dialogflow_assistant","DialogFlow Small Talk",4
+"Assistant","google_assistant","Google Assistant",29
+"Assistant","siri","Siri",21
+"Assistant","xiaowei","Xiaowei Virtual Assistant",1
+"Assistant","xiaoyu_zaijia","Xiaoyu Zaijia Virtual Assistant",1

@@ -1,0 +1,784 @@
+"Reference_Name","ISO_639","Language_Type","DLS_Level","Raw_Score","Adjusted_Score","Proportional_Score","Content","Encoding","Surface","Localized","Meaning","Speech","Assistant"
+"Italian","ita","Living","Thriving",28,27.5,1,4,4,4,4,4,4,3.5
+"Dutch","nld","Living","Thriving",26,25.5714,0.92987,4,4,4,4,4,4,1.5714
+"Vietnamese","vie","Living","Thriving",25,24,0.872727,4,4,4,4,4,3.6,0.4
+"Bengali","ben","Living","Vital",24,22.9633,0.835029,4,4,4,4,3.8125,2.9286,0.2222
+"Standard Latvian","lvs","Living","Vital",23,22.4534,0.816488,4,4,4,4,3.7143,2.7391,0
+"Telugu","tel","Living","Vital",23,21.9891,0.799605,4,4,4,4,3,2.7391,0.25
+"Filipino","fil","Living","Vital",22,21.3231,0.775385,4,4,4,4,3,2.3231,0
+"Odia","ory","Living","Vital",21,20.4196,0.74253,4,4,4,3.6923,3,1.7273,0
+"Kinyarwanda","kin","Living","Vital",19,17.5782,0.639207,4,4,3.4167,3,2.7,0.4615,0
+"Plateau Malagasy","plt","Living","Vital",18,16.7999,0.610905,3.9412,3.8421,3.5625,3,2.4541,0,0
+"Occitan (post 1500)","oci","Living","Vital",18,16.7347,0.608533,3.9412,3.8421,3.5625,3,1.8889,0.5,0
+"Eastern Yiddish","ydd","Living","Vital",17,16.1096,0.585804,4,3.9231,2.8199,3,2.3667,0,0
+"Luxembourgish","ltz","Living","Vital",16,14.1349,0.513997,4,3.75,1.8571,2.875,1.6528,0,0
+"Campidanese Sardinian","sro","Living","Ascending",15,13.4269,0.48825,4,2.9,1.7273,2.8889,1.9107,0,0
+"Walloon","wln","Living","Ascending",13,11.6925,0.425181,4,3.5534,1,2.4,0.7391,0,0
+"Manx","glv","Living","Ascending",14,11.3406,0.412387,3.875,3.4127,1,2.1307,0.9222,0,0
+"Tagalog","tgl","Living","Ascending",14,10.3046,0.374711,3.875,2,1.2857,2.1307,1.0131,0,0
+"Chuanqiandian Cluster Miao","cqd","Living","Ascending",12,9.1515,0.332781,3.9231,2,1,1.6002,0.6282,0,0
+"Kikuyu","kik","Living","Ascending",10,8.5004,0.309107,3.7708,3.1828,0.9268,0.62,0,0,0
+"Limburgan","lim","Living","Ascending",10,8.3315,0.302965,3.7708,2.6939,0.9268,0.62,0.32,0,0
+"Afar","aar","Living","Ascending",10,8.1952,0.298008,3.7708,2.6939,0.9268,0.8037,0,0,0
+"Inari Sami","smn","Living","Ascending",10,7.8936,0.28704,3.7708,3.1828,0,0.62,0.32,0,0
+"Seselwa Creole French","crs","Living","Ascending",10,7.5027,0.272824,3.7708,2.6939,1.0379,0,0,0,0
+"Plains Cree","crk","Living","Ascending",9,7.4123,0.269537,3.5905,2.8884,0.9333,0,0,0,0
+"Zande (individual language)","zne","Living","Ascending",9,7.4123,0.269537,3.5905,2.8884,0.9333,0,0,0,0
+"Sena","seh","Living","Ascending",9,7.0434,0.256124,2.8966,2.8884,0.9333,0.325,0,0,0
+"Abkhazian","abk","Living","Ascending",9,6.8331,0.248476,3.5905,1.9158,0.9333,0.3935,0,0,0
+"Ghomálá'","bbj","Living","Ascending",8,6.6238,0.240867,3.4874,2.3865,0.75,0,0,0,0
+"Southern Dagaare","dga","Living","Ascending",8,6.6238,0.240867,3.4874,2.3865,0.75,0,0,0,0
+"S'gaw Karen","ksw","Living","Ascending",8,6.6238,0.240867,3.4874,2.3865,0.75,0,0,0,0
+"Northern Thai","nod","Living","Ascending",8,6.6238,0.240867,3.4874,2.3865,0.75,0,0,0,0
+"Adyghe","ady","Living","Ascending",8,6.3096,0.229439,3.4874,1.8774,0.75,0.1948,0,0,0
+"Piemontese","pms","Living","Ascending",8,6.198,0.22538,2.8667,2.3865,0.75,0.1948,0,0,0
+"Plautdietsch","pdt","Living","Ascending",9,6.0525,0.220092,3.5905,1.9158,0,0.3935,0.1528,0,0
+"Alur","alz","Living","Ascending",7,5.3089,0.193049,2.9751,1.726,0.6078,0,0,0,0
+"Konzo","koo","Living","Ascending",7,5.3089,0.193049,2.9751,1.726,0.6078,0,0,0,0
+"Chimborazo Highland Quichua","qug","Living","Ascending",7,5.3089,0.193049,2.9751,1.726,0.6078,0,0,0,0
+"Yao","yao","Living","Ascending",7,5.3089,0.193049,2.9751,1.726,0.6078,0,0,0,0
+"Lepcha","lep","Living","Ascending",7,5.1472,0.187171,2.5277,2.0117,0.6078,0,0,0,0
+"Eastern Apurímac Quechua","qve","Living","Ascending",8,4.9327,0.179372,2.8667,0.9855,0.7845,0.1948,0.1013,0,0
+"Kaqchikel","cak","Living","Ascending",7,4.7559,0.172941,2.9751,0.9881,0.6078,0.1849,0,0,0
+"Balti","bft","Living","Ascending",7,4.5408,0.165119,1.8842,2.0487,0.6078,0,0,0,0
+"Extremaduran","ext","Living","Ascending",6,4.2705,0.15529,2.3071,1.5566,0.4068,0,0,0,0
+"Rejang","rej","Living","Ascending",6,4.2705,0.15529,2.3071,1.5566,0.4068,0,0,0,0
+"Belize Kriol English","bzj","Living","Ascending",6,4.1904,0.152377,2.6337,1.5566,0,0,0,0,0
+"Guerrero Nahuatl","ngu","Living","Ascending",6,4.1904,0.152377,2.6337,1.5566,0,0,0,0,0
+"Min Nan Chinese","nan","Living","Ascending",7,4.1657,0.151481,2.9751,0.9881,0,0.2026,0,0,0
+"Sabu","hvn","Living","Ascending",6,4.0228,0.146284,2.6337,0.9823,0.4068,0,0,0,0
+"Kok Borok","trp","Living","Ascending",6,4.0228,0.146284,2.6337,0.9823,0.4068,0,0,0,0
+"Minangkabau","min","Living","Ascending",6,3.9638,0.14414,1.7692,1.7879,0.4068,0,0,0,0
+"Mundari","unr","Living","Ascending",6,3.9638,0.14414,1.7692,1.7879,0.4068,0,0,0,0
+"Western Mari","mrj","Living","Ascending",6,3.7775,0.137362,1.7692,1.5566,0.4068,0,0.0449,0,0
+"Jola-Fonyi","dyo","Living","Ascending",6,3.652,0.1328,1.7692,1.7879,0,0.0949,0,0,0
+"Geez","gez","Ancient","Emerging",6,3.2189,0.11705,0.9739,1.8382,0.4068,0,0,0,0
+"Bura-Pabir","bwr","Living","Emerging",5,3.1763,0.115503,2.0481,1.1283,0,0,0,0,0
+"Kutep","kub","Living","Emerging",5,3.1763,0.115503,2.0481,1.1283,0,0,0,0,0
+"Congo Swahili","swc","Living","Emerging",5,3.1763,0.115503,2.0481,1.1283,0,0,0,0,0
+"Chuj","cac","Living","Emerging",5,2.9974,0.108997,2.2736,0.7238,0,0,0,0,0
+"Goan Konkani","gom","Living","Emerging",5,2.9974,0.108997,2.2736,0.7238,0,0,0,0,0
+"Kalanguya","kak","Living","Emerging",5,2.9974,0.108997,2.2736,0.7238,0,0,0,0,0
+"Poqomchi'","poh","Living","Emerging",5,2.9974,0.108997,2.2736,0.7238,0,0,0,0,0
+"Tzeltal","tzh","Living","Emerging",5,2.9974,0.108997,2.2736,0.7238,0,0,0,0,0
+"Saurashtra","saz","Living","Emerging",5,2.9877,0.108645,2.0481,0.7238,0.2159,0,0,0,0
+"Kachhi","kfr","Living","Emerging",5,2.9493,0.107249,1.6052,1.1283,0.2159,0,0,0,0
+"Pfaelzisch","pfl","Living","Emerging",5,2.9493,0.107249,1.6052,1.1283,0.2159,0,0,0,0
+"Fang (Equatorial Guinea)","fan","Living","Emerging",5,2.856,0.103855,1.6052,1.2508,0,0,0,0,0
+"Classical Nahuatl","nci","Historical","Emerging",5,2.746,0.099856,1.6052,1.1283,0,0,0,0.0126,0
+"Bakoko","bkh","Living","Emerging",4,2.3916,0.086966,1.7071,0.6844,0,0,0,0,0
+"Batad Ifugao","ifb","Living","Emerging",4,2.3916,0.086966,1.7071,0.6844,0,0,0,0,0
+"Kusaal","kus","Living","Emerging",4,2.3916,0.086966,1.7071,0.6844,0,0,0,0,0
+"Northwestern Ojibwa","ojb","Living","Emerging",4,2.3916,0.086966,1.7071,0.6844,0,0,0,0,0
+"Shilluk","shk","Living","Emerging",4,2.3916,0.086966,1.7071,0.6844,0,0,0,0,0
+"Zou","zom","Living","Emerging",4,2.3916,0.086966,1.7071,0.6844,0,0,0,0,0
+"Garo","grt","Living","Emerging",5,2.3874,0.086814,0.9207,1.2508,0.2159,0,0,0,0
+"Kom (Cameroon)","bkm","Living","Emerging",4,2.3833,0.086666,1.4383,0.9451,0,0,0,0,0
+"Sea Island Creole English","gul","Living","Emerging",4,2.3833,0.086666,1.4383,0.9451,0,0,0,0,0
+"Kuria","kuj","Living","Emerging",4,2.3833,0.086666,1.4383,0.9451,0,0,0,0,0
+"Ngiti","niy","Living","Emerging",4,2.3833,0.086666,1.4383,0.9451,0,0,0,0,0
+"Tunen","tvu","Living","Emerging",4,2.3833,0.086666,1.4383,0.9451,0,0,0,0,0
+"Banggai","bgz","Living","Emerging",4,2.2662,0.082407,1.4383,0.6844,0.1435,0,0,0,0
+"Langi","lag","Living","Emerging",5,2.2168,0.08061,0.9207,1.2508,0,0.0453,0,0,0
+"Betawi","bew","Living","Emerging",4,1.971,0.071671,0.8824,0.9451,0.1435,0,0,0,0
+"Dungan","dng","Living","Emerging",4,1.971,0.071671,0.8824,0.9451,0.1435,0,0,0,0
+"Masana","mcn","Living","Emerging",4,1.971,0.071671,0.8824,0.9451,0.1435,0,0,0,0
+"Rakhine","rki","Living","Emerging",4,1.971,0.071671,0.8824,0.9451,0.1435,0,0,0,0
+"Koorete","kqy","Living","Emerging",4,1.8655,0.067837,0.8824,0.9832,0,0,0,0,0
+"Guerrero Amuzgo","amu","Living","Emerging",4,1.8278,0.066467,1.8278,0,0,0,0,0,0
+"Digo","dig","Living","Emerging",4,1.8278,0.066467,1.8278,0,0,0,0,0,0
+"Kaonde","kqn","Living","Emerging",4,1.8278,0.066467,1.8278,0,0,0,0,0,0
+"Tase Naga","nst","Living","Emerging",4,1.8278,0.066467,1.8278,0,0,0,0,0,0
+"Rapanui","rap","Living","Emerging",4,1.8278,0.066467,1.8278,0,0,0,0,0,0
+"Wallisian","wls","Living","Emerging",4,1.8278,0.066467,1.8278,0,0,0,0,0,0
+"Anuak","anu","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Mmen","bfm","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Wumboko","bqm","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Northern Catanduanes Bikol","cts","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Northern Emberá","emp","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Gothic","got","Ancient","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Inuinnaqtun","ikt","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Kwakum","kwu","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Mafa","maf","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Masalit","mls","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Maria (India)","mrr","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Ndo","ndp","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Tohono O'odham","ood","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Santiago del Estero Quichua","qus","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Riang (India)","ria","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Suba-Simbiti","ssc","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Tera","ttr","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Yatzachi Zapotec","zav","Living","Emerging",3,1.5827,0.057551,1.0533,0.5293,0,0,0,0,0
+"Hamer-Banna","amf","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Boko (Benin)","bqc","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Dogrib","dgr","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Central-Eastern Niger Fulfulde","fuq","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Southeast Ijo","ijs","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Nomaande","lem","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Male (Ethiopia)","mdy","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Rotokas","roo","Living","Emerging",3,1.4151,0.051459,0.7714,0.6437,0,0,0,0,0
+"Abron","abr","Living","Emerging",3,1.3514,0.049142,0.7714,0.5293,0.0507,0,0,0,0
+"Hani","hni","Living","Emerging",3,1.3514,0.049142,0.7714,0.5293,0.0507,0,0,0,0
+"Qashqa'i","qxq","Living","Emerging",3,1.3514,0.049142,0.7714,0.5293,0.0507,0,0,0,0
+"Argentine Sign Language","aed","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Chachi","cbi","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Chuka","cuh","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Ngäbere","gym","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Da'a Kaili","kzf","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Nyemba","nba","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Roviana","rug","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Warao","wba","Living","Emerging",3,1.1293,0.041066,1.1293,0,0,0,0,0,0
+"Kuy","kdt","Living","Emerging",4,1.1267,0.040971,0,0.9832,0.1435,0,0,0,0
+"Asu (Tanzania)","asa","Living","Emerging",4,0.9978,0.036283,0,0.9832,0,0.0146,0,0,0
+"Gikyode","acd","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Igo","ahl","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Arop-Lokep","apr","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Au","avt","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Bayot","bda","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Biangai","big","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Kein","bmh","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Bugawac","buk","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Cayuga","cay","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Cibak","ckl","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Ngawn Chin","cnw","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Woods Cree","cwd","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Northeastern Dinka","dip","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Eastern Bontok","ebk","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Fipa","fip","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Wipi","gdr","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Ngangam","gng","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Havu","hav","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Interlingue","ile","Constructed","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Krymchak","jct","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Kare (Central African Republic)","kbn","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Kube","kgf","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Tagakaulo","klg","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Lubuagan Kalinga","knb","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Karon","krx","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Psikye","kvj","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Kwaya","kya","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Pévé","lme","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Mawa (Chad)","mcw","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Matengo","mgv","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Madak","mmx","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Dadibi","mps","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Peripheral Mongolian","mvf","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Naasioi","nas","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Nek","nif","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Ngindo","nnq","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Okanagan","oka","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Ottoman Turkish (1500-1928)","ota","Historical","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Pimbwe","piw","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Phuie","pug","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Kalo Finnish Romani","rmf","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Mag-antsi Ayta","sgb","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Sissala","sld","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Swo","sox","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Sulka","sua","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Tembo (Kitembo)","tbt","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Telefol","tlf","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Ubi","ubi","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Vagla","vag","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"North Wahgi","whg","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Wuvulu-Aua","wuv","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Kuo","xuo","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Yessan-Mayo","yss","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Rincón Zapotec","zar","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Southeastern Ixtlán Zapotec","zpd","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Loxicha Zapotec","ztp","Living","Emerging",2,0.9864,0.035868,0.4994,0.487,0,0,0,0,0
+"Eastern Cham","cjm","Living","Emerging",3,0.6943,0.025249,0,0.6437,0.0507,0,0,0,0
+"Khorasani Turkish","kmz","Living","Emerging",3,0.6943,0.025249,0,0.6437,0.0507,0,0,0,0
+"Achagua","aca","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Arabela","arl","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"West Coast Bajau","bdr","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Belanda Viri","bvi","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Cia-Cia","cia","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Czech Sign Language","cse","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Didinga","did","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Enxet","enx","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Guarayu","gyr","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Italian Sign Language","ise","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Konda-Dora","kfc","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Tehit","kps","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Karok","kyh","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Saluan","loe","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Machiguenga","mcb","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Ilwana","mlk","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Tlahuitoltepec Mixe","mxp","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Tangkhul Naga (India)","nmf","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Natügu","ntu","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Old Russian","orv","Historical","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Sayula Popoluca","pos","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Rajbanshi","rjs","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Soli","sby","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Sirionó","srq","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Tajio","tdj","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Highland Totonac","tos","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Tucano","tuo","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Venezuelan Sign Language","vsl","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Yagua","yad","Living","Emerging",2,0.6548,0.023813,0.6548,0,0,0,0,0,0
+"Agatu","agc","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Balanta-Kentohe","ble","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Chilcotin","clc","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Gyele","gyi","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Bumthangkha","kjz","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Isthmus-Pajapan Nahuatl","nhp","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Parkwa","pbi","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Vincentian Creole English","svc","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Tedaga","tuq","Living","Emerging",2,0.5394,0.019614,0,0.5394,0,0,0,0,0
+"Godwari","gdx","Living","Emerging",2,0.5022,0.018261,0,0.487,0.0152,0,0,0,0
+"Rangpuri","rkt","Living","Emerging",2,0.5022,0.018261,0,0.487,0.0152,0,0,0,0
+"Middle French (ca. 1400-1600)","frm","Historical","Emerging",2,0.5013,0.018231,0.4994,0,0,0,0.0019,0,0
+"Abidji","abi","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Saidi Arabic","aec","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Akum","aku","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Arop-Sissano","aps","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Sanaani Arabic","ayn","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Bubia","bbx","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Besme","bes","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Bohtan Neo-Aramaic","bhn","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Beeke","bkf","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Eastern Tawbuid","bnj","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Banda-Mbrès","bqk","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Bassossi","bsi","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Boor","bvf","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Buhutu","bxh","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Evant","bzz","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Caka","ckx","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Coquille","coq","Extinct","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Chungmboko","cug","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Bondum Dom Dogon","dbu","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Dimbong","dii","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Dongo","doo","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Toro Tegu Dogon","dtt","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Emai-Iuleha-Ora","ema","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"North Fali","fll","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Bagirmi Fulfulde","fui","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Pottangi Ollar Gadaba","gdb","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Hiberno-Scottish Gaelic","ghc","Historical","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Glaro-Twabo","glr","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Southern Grebo","grj","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Haisla","has","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Hamtai","hmt","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Iha Based Pidgin","ihb","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mesaka","iyo","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Jaya","jyy","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Konongo","kcz","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Northeast Kiwai","kiw","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Koluwawa","klx","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Kovai","kqb","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Kato","ktw","Extinct","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Yinbaw Karen","kvu","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Kango (Tshopo District)","kzy","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Lembena","leq","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Laimbue","lmx","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Maisin","mbq","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mangbutu","mdk","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Maleu-Kilenge","mgl","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Byep","mkk","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mbara (Chad)","mpk","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mugom","muk","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Bambassi","myf","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Kenswei Nsei","ndb","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mfumte","nfu","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Nzanyi","nja","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Nimbari","nmr","Extinct","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Nara","nrb","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Nyindu","nyg","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Ombo","oml","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Badyara","pbp","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Miani","pla","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Malecite-Passamaquoddy","pqm","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Yanahuanca Pasco Quechua","qur","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Chincha Quechua","qxc","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Ritharrngu","rit","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Saba","saa","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Sened","sds","Extinct","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Assangori","sjg","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Sam","snx","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Stellingwerfs","stl","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Sarua","swy","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Turks And Caicos Creole English","tch","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Tanggu","tgu","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Jewish Babylonian Aramaic (ca. 200-1200 CE)","tmr","Extinct","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Tsakonian","tsd","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Twents","twd","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Vanuma","vau","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Westphalien","wep","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Hanga Hundi","wos","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mbonga","xmb","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Yukuben","ybl","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Wuding-Luquan Yi","ywq","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Zhoa","zhw","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Mbandja","zmz","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Zaniza Zapotec","zpw","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Tilquiapan Zapotec","zts","Living","Emerging",1,0.1747,0.006353,0,0.1747,0,0,0,0,0
+"Abé","aba","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Arosi","aia","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Alladian","ald","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Sa'a","apb","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Aralle-Tabulahan","atq","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Budukh","bdk","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Bughotu","bgt","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Baikeno","bkx","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Bago-Kusuntu","bqg","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Baeggu","bvd","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tsimané","cas","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Classical Mongolian","cmg","Historical","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Pu-Xian Chinese","cpx","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Huizhou Chinese","czh","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Dhanwar (Nepal)","dhw","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Mid Grand Valley Dani","dnt","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Middle English (1100-1500)","enm","Historical","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kalispel-Pend d'Oreille","fla","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Gbagyi","gbr","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Ghari","gri","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Hajong","haj","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Ila","ilb","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Isekiri","its","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Jordanian Sign Language","jos","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Numèè","kdk","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kusunda","kgg","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kisar","kje","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tabo","knv","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kyenele","kql","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kwaio","kwd","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Laru","lan","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Lengo","lgr","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Lumun","lmd","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Eastern Lawa","lwl","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Malayo","mbp","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Moru","mgd","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Alacatlatzala Mixtec","mim","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Michoacán Mazahua","mmc","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Aruamu","msy","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Nyamwanga","mwn","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Moma","myl","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Nawuri","naw","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Nengone","nen","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Bouna Kulango","nku","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Nimoa","nmw","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Norn","nrn","Extinct","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Oroch","oac","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Omaha-Ponca","oma","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tenharim","pah","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Phimbi","phm","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Uma","ppk","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Dungmali","raa","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Sawi","saw","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Shatt","shj","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Siriano","sri","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tai","taw","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kochila Tharu","thq","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tsakhur","tkr","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tanimuca-Retuarã","tnc","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Copala Triqui","trc","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Tavoyan","tvn","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Udihe","ude","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Urubú-Kaapor","urb","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Wagiman","waq","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Mwani","wmw","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Kanakanabu","xnb","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Yaminahua","yaa","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Yimchungru Naga","yim","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Copainalá Zoque","zoc","Living","Emerging",1,0.1496,0.00544,0.1496,0,0,0,0,0,0
+"Alumu-Tesu","aab","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Aasáx","aas","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Abon","abo","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Dhofari Arabic","adf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Northeast Pashai","aee","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nanubae","afk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Arguni","agf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mobumrin Aizi","ahm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ai-Cham","aih","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Aja (South Sudan)","aja","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Akurio","ako","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Alak","alk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"War-Jaintia","aml","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Andi","ani","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Angal Enen","aoe","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Apiaká","api","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Atakapa","aqp","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Arbore","arv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tocantins Asurini","asu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ashtiani","atn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Anuta","aud","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Aruek","aur","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Aushiri","avs","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Awera","awr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yaka (Central African Republic)","axk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sorsogon Ayta","ays","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Barakai","baj","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Karnai","bbv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Emberá-Baudó","bdc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Badeshi","bdz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bofi","bff","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bit","bgk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tukang Besi South","bhq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bipi","biq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Barok","bjk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Boko (Democratic Republic of Congo)","bkp","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Blablanga","blp","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bomboli","bml","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Masiwang","bnf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bamako Sign Language","bog","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bonggo","bpg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bongu","bpu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Burusu","bqr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Boruca","brn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Brunei Bisaya","bsb","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yangkam","bsx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bobot","bty","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Boghom","bux","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bati (Indonesia)","bvt","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Barwe","bwg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Birale","bxe","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bete","byf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Belhariya","byw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Biri","bzr","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Cabiyarí","cbb","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Cafundo Creole","ccd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Chadong","cdy","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Catawba","chc","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Chiapanec","cip","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Chilisso","clh","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Northern Qiang","cng","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Cowlitz","cow","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Carolina Algonquian","crr","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Northern Ohlone","cst","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Cupeño","cup","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Knaanic","czk","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Dogul Dom Dogon","dbg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bankan Tey Dogon","dbw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Dawera-Daweloor","ddw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Degenan","dge","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Dhungaloo","dhx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Djadjawurrung","dja","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Kadung","dkg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Domaaki","dmk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Danau","dnu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Dominican Sign Language","doq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Minderico","drc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ana Tinga Dogon","dti","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Alabat Island Agta","dul","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Dyaberdyaber","dyb","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Karenggapa","eaa","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Miyakubo Sign Language","ehs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Elepi","ele","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Eastern Meohang","emg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Emumu","enr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Eritai","ert","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Etruscan","ett","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Fayu","fau","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Flinders Island","fln","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Furu","fuu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kenati","gat","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gbaya-Bozoum","gbq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gade Lohar","gda","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gudu","gdu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gera","gew","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gagu","ggu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Hinukh","gin","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kok-Nar","gko","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Magɨyi","gmg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ngen","gnj","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gongduk","goe","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ga'anda","gqa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gresi","grs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Guana (Paraguay)","gva","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Moo","gwg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Gungabula","gyf","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Haiphong Sign Language","haf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Hidatsa","hid","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mel-Khaonh","hkn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Northern Huishui Hmong","hmi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Southern Guiyang Hmong","hmy","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Holu","hol","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Horned Miao","hrm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Middle Hittite","htx","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Hungana","hum","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Santa María Del Mar Huave","hvv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ede Ica","ica","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Igana","igg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Iko","iki","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Iranun (Malaysia)","ilm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Jungle Inga","inj","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Iraqw","irk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Itene","ite","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"I-Wak","iwk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yalahatan","jal","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Barikewa","jbk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yei","jei","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Jingulu","jig","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Amami Koniya Sign Language","jks","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mouwase","jmw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Jewish Palestinian Aramaic","jpa","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Wapan","juk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Katso","kaf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kande","kbs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ukaan","kcf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kaian","kct","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kadaru","kdu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kadar","kej","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kurichiya","kfh","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Selangor Sign Language","kgi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Karas","kgv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kapori","khp","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kosadle","kiq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Western Keres","kjq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mabaka Valley Kalinga","kkg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tumi","kku","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kamasa","klp","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Konda","knd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kalamsé","knz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kutto","kpa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kafoa","kpu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Okolod","kqv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kuni","kse","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kusu","ksv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Koroshi","ktl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kupa","kug","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kunza","kuz","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Tsakwambo","kvz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kwese","kws","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Koiwat","kxt","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kuruáya","kyr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kazukuru","kzk","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Kamarian","kzx","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Lama Bai","lay","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lavatbura-Lamusong","lbv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Luhu","lcq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Loo","ldo","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lamma","lev","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Laha (Viet Nam)","lha","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Liki","lio","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yuru","ljx","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Kungkari","lku","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Lasalimu","llm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lamalera","lmr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Langam","lnm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tampias Lobu","low","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Marama","lrm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Laos Sign Language","lso","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Latu","ltu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lumba-Yakkha","luu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lewotobi","lwt","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Malol","mbk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Maquiritari","mch","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mbere","mdt","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mangala","mem","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Lijili","mgi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Margu","mhg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Cacaloxtepec Mixtec","miu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Malapandaram","mjp","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Siliput","mkc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kinamiging Manobo","mkx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Motlav","mlv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Musar","mmi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Emae","mmw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Moni","mnz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mangarrayi","mpc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mapidian","mpw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Rajah Kabunsuwan Manobo","mqk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Murupi","mqw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mortlockese","mrl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Moraid","msg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Momare","msz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mota","mtt","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mamboru","mvd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mwatebu","mwa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mele-Fila","mxe","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mayeka","myc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Matipuhy","mzo","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Naaba","nao","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kuri","nbn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nachering","ncd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ndombe","ndq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Neku","nek","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Neyo","ney","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ngwaba","ngw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nila","nil","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kunyi","njx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Namat","nkm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mankiyali","nlm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nyam","nmi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nyangumarta","nna","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nuk","noc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nayi","noz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ngendelengo","nql","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ngarluma","nrl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Northwestern Nisu","nsf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nathembo","nte","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ngala","nud","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nasarian","nvh","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nage","nxe","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nyeu","nyl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Teke-Nzikou","nzu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Old Cham","ocm","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Oirata","oia","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kwamtim One","okk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Old Lithuanian","olt","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Omurano","omu","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Ontenu","ont","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ofayé","opy","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Oscan","osc","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Texcatepec Otomi","otx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Oya'oya","oyy","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Pankararú","paz","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Santa Inés Ahuatempan Popoloca","pca","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Pa Di","pdi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Old Persian (ca. 600-400 B.C.)","peo","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Pagu","pgu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Pahlavani","phv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Piu","pix","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Paku","pku","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Paluan","plz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Plains Miwok","pmw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Punan Batu 1","pnm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Pokangá","pok","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Papora","ppu","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Providencia Sign Language","prz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Port Sandwich","psw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Pentlatch","ptw","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Puruborá","pur","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Fyam","pym","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Southern Qiang","qxs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Razajerdi","rat","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Rembong","reb","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Rangkas","rgk","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Kraol","rka","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Roma","rmm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Rogo","rod","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ratahan","rth","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ruwila","rwl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Saraveca","sar","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Seti","sbi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Chut","scb","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sarli","sdf","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sene","sej","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sangkong","sgk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sonde","shc","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Akkala Sami","sia","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Siuslaw","sis","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Sindarin","sjn","Constructed","Still",0,0,0,0,0,0,0,0,0,0
+"Kutong","skm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sholaga","sle","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sialum","slw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Musasa","smm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sensi","sni","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Thai Song","soa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sepa (Indonesia)","spb","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sapuan","spu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Saruga","sra","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Serua","srw","Living","Still",0,0,0,0,0,0,0,0,0,0
+"So'a","ssq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Shelta","sth","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Suganga","sug","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Savosavo","svs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sowa","sww","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Siang","sya","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sengele","szg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tocho","taz","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tanguat","tbs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tichurong","tcn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tomadino","tdi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tadyawan","tdy","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Temein","teq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lawunuia","tgi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tai Long","thi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tiéfo","tiq","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tjurruru","tju","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Takestani","tks","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Talodi","tlo","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tutuba","tmi","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tamanaku","tmz","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Tangchangya","tnv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kula","tpg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tembé","tqb","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tirahi","tra","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tunggare","trt","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tondi Songway Kiini","tst","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lower Ta'oih","tto","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Taulil","tuh","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Teshenawa","twc","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Tuwari","tww","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Tartessian","txr","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Thaypan","typ","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Kuan","uan","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ughele","uge","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ukrainian Sign Language","ukl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Lule","ule","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Umotína","umo","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Unubahe","unu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Uruangnirin","urn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Uya","usu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Doko-Uyanga","uya","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Southwestern Bontok","vbk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kulisusu","vkl","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mudu Koraga","vmd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Moksela","vms","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Varisi","vrs","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wamesa","wad","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Watam","wax","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wajarri","wbv","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wergaia","weg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wirangu","wgu","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Wik-Iiyanh","wij","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Keerray-Woorroong","wkr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wailapa","wlr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wamin","wmi","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Wanap","wnp","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wongo","won","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Warnang","wrn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Owenia","wsr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wudu","wud","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Waxianghua","wxa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Aghwan","xag","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Katawixi","xat","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Middle Breton","xbm","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Chemakum","xch","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Dacian","xdc","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Kesawai","xes","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Galindan","xgl","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Hattic","xht","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Jaitmatang","xjt","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Kayan River Kayan","xkn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Karore","xkx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Loup A","xlo","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Manichaean Middle Persian","xmn","Historical","Still",0,0,0,0,0,0,0,0,0,0
+"Mayaguduna","xmy","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nukunul","xnu","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Pirriya","xpa","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Port Sorell Tasmanian","xpl","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Northwestern Tasmanian","xpw","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Krikati-Timbira","xri","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Shamang","xsh","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Ketengban","xte","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sindihui Mixtec","xts","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Umbrian","xum","Ancient","Still",0,0,0,0,0,0,0,0,0,0
+"Kwaza","xwa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Wemba Wemba","xww","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Yalakalore","xyl","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Yuwana","yau","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yawiyo","ybx","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Nyankpa","yes","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Baha Buyang","yha","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Pholo","yip","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yakaikeke","ykk","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yelogu","ylg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Muda","ymd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Malasar","ymr","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yong","yno","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Phala","ypa","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yirrk-Mel","yrm","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Sani","ysn","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Judeo-Tripolitanian Arabic","yud","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Southern Yukaghir","yux","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Yawarawarga","yww","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"E'ma Buyang","yzg","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Bu (Bauchi State)","zbu","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Kadu","zkd","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Krevinian","zkv","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Maridjabin","zmj","Living","Still",0,0,0,0,0,0,0,0,0,0
+"Mbariman-Gudhinma","zmv","Extinct","Still",0,0,0,0,0,0,0,0,0,0
+"Sarasira","zsa","Living","Still",0,0,0,0,0,0,0,0,0,0
