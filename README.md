@@ -7,9 +7,9 @@ by Gary F. Simons, Abbey L. Thomas, and Chad K. White,
 DLS for each of the 7,829 individual languages that were included in the
 ISO 639-3 standard when the system was run (May 2021). 
 This open repository presents the detailed
-results for a 10% sample of the languages. See 
+results for a systematic sample of 10% of the languages. See 
 [link fortcoming]()
-for a web servie that offers access to the results for all languages.
+for a web service that offers access to the results for all languages.
 
 The results are reported in three data files and the data columns
 are defined in the subsections that follow:
