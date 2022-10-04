@@ -29,7 +29,7 @@ languagges in the 10% sample.
 ## File: *List of all DLS features.csv*
 
 This is a UTF-8 encoded CSV file consisting of a header row 
-containing the column nanes, followed by one row for every
+containing the column names, followed by one row for every
 DLS feature that was harvested. 
 This run of the system
 (in May 2021) is based on 143 features. If you are aware of additional
