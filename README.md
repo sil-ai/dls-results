@@ -3,7 +3,7 @@
 This repository reports results for the COLING 2022 paper 
 "Assessing Digital Language Support (DLS) on a Global Scale," 
 by Gary F. Simons, Abbey L. Thomas, and Chad K. White, 
-[[preprint](https://arxiv.org/abs/2209.13515)]. The full result set reports the observed 
+[[publication](https://aclanthology.org/2022.coling-1.379/), [preprint](https://arxiv.org/abs/2209.13515)]. The full result set reports the observed 
 DLS for each of the 7,829 individual languages that were included in the
 ISO 639-3 standard when the system was run (May 2021). 
 This open repository presents the detailed
