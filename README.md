@@ -8,9 +8,9 @@ DLS for each of the 7,829 individual languages that were included in the
 ISO 639-3 standard when the system was run (May 2021). 
 This open repository presents the detailed
 results for a systematic sample of 10% of the languages. 
-A web service that offers access to the results for all languages
-is under development by [Derivation](http://www.derivation.co); an
-exact link is forthcoming.
+A dataset of the DLS levels for all languages and a web service for visualizing the results are
+available from [Derivation](http://www.derivation.co/digitallanguagesupport/).
+Access to the dataset is free for academic users.
 
 The results are reported in three data files and the data columns
 are defined in the subsections that follow:
